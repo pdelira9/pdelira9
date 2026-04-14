@@ -1,8 +1,8 @@
 <h1 align="center">Pedro De Lira</h1>
-<h3 align="center">Ingeniero en Sistemas · Full Stack Developer · Infrastructure & Cloud</h3>
+<h3 align="center">Systems Engineer · Full Stack Developer · Infrastructure & Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=22&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Ingeniero+en+Sistemas;Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Infrastructure+%26+Cloud;Building+web+apps+for+real+production+environments" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=22&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Systems+Engineer;Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Infrastructure+%26+Cloud;Building+web+apps+for+real+production+environments" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,25 +19,25 @@
 
 ---
 
-## About me
+## About Me
 
-Soy **Ingeniero en Sistemas** con más de 13 años de experiencia en infraestructura, redes y ciberseguridad, actualmente enfocado en desarrollo **Full Stack** con Angular, Node.js y MongoDB.
+I am a **Systems Engineer** with more than 13 years of experience in infrastructure, networking, and cybersecurity, currently focused on **Full Stack Development** with Angular, Node.js, and MongoDB.
 
-Me gusta construir aplicaciones robustas, bien estructuradas y listas para producción. Mi experiencia en infraestructura me ayuda a pensar el software desde el código hasta el despliegue y la operación.
+I enjoy building robust applications that are well structured and ready for production. My infrastructure background gives me a broader view of the software lifecycle, from code to deployment and operations.
 
-- 📍 Aguascalientes, México.
-- 💼 Enfocado en desarrollo Full Stack y Cloud.
-- ⚙️ Experiencia en infraestructura, redes, seguridad y soporte técnico.
-- 🚀 Construyendo proyectos con MEAN Stack, Docker y despliegues cloud.
+- 📍 Based in Aguascalientes, Mexico.
+- 💼 Focused on Full Stack Development and Cloud.
+- ⚙️ Experienced in infrastructure, networking, security, and technical support.
+- 🚀 Building projects with MEAN Stack, Docker, and cloud deployments.
 
 ---
 
 ## Currently
 
-- Building full stack web apps with Angular, Node.js and MongoDB.
-- Improving cloud and DevOps skills with AWS, GCP and Docker.
+- Building full stack web apps with Angular, Node.js, and MongoDB.
+- Improving cloud and DevOps skills with AWS, GCP, and Docker.
 - Strengthening my portfolio with production-ready projects.
-- Exploring better ways to architect, deploy and maintain web applications.
+- Exploring better ways to architect, deploy, and maintain web applications.
 
 ---
 
@@ -84,33 +84,33 @@ Me gusta construir aplicaciones robustas, bien estructuradas y listas para produ
 ## Projects
 
 ### Cafecito Feliz
-Sistema POS desarrollado con Angular, Node.js y MongoDB Atlas.  
-Incluye autenticación JWT, control de acceso por roles, ventas, clientes, inventario y dashboard.
+A POS system built with Angular, Node.js, and MongoDB Atlas.  
+It includes JWT authentication, role-based access control, sales, customers, inventory, and a metrics dashboard.
 
-[Demo](https://cafecitofeliz.pages.dev) · [Repositorio](https://github.com/pdelira9/cafecitoFeliz)
+[Demo](https://cafecitofeliz.pages.dev) · [Repository](https://github.com/pdelira9/cafecitoFeliz)
 
 ### Ecommerce App
-Aplicación web tipo e-commerce construida con MEAN Stack.  
-Implementa CRUD de productos, carrito, autenticación y pruebas end-to-end con Cypress.
+An e-commerce web application built with the MEAN Stack.  
+It includes product CRUD, shopping cart, authentication, and end-to-end testing with Cypress.
 
-[Demo](https://ecommerce-angular-app-rs9w.onrender.com) · [Repositorio](https://github.com/pdelira9/ecommerce-final)
+[Demo](https://ecommerce-angular-app-rs9w.onrender.com) · [Repository](https://github.com/pdelira9/ecommerce-final)
 
 ---
 
 ## Experience
 
-- **Ingeniero de Infraestructura Tecnológica** — Gobierno del Estado de Aguascalientes.
-- **Gerente de Sistemas** — Grupo Hotelero Santa Fe.
-- **Service Expert / Mesa de Seguridad** — AB InBev (Grupo Modelo).
-- **Soporte Técnico y Redes** — Interpec San Marcos (Sabro Pollo).
+- **Infrastructure Engineer** — Government of the State of Aguascalientes.
+- **Systems Manager** — Grupo Hotelero Santa Fe.
+- **Service Expert / Security Desk** — AB InBev (Grupo Modelo).
+- **Technical Support and Networking** — Interpec San Marcos (Sabro Pollo).
 
 ---
 
 ## Education
 
-**Ingeniería en Sistemas**  
+**Systems Engineering**  
 Universidad Politécnica de Aguascalientes  
-Titulado · Cédula profesional
+Graduated · Professional license
 
 ---
 
