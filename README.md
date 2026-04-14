@@ -1,6 +1,6 @@
 <h1 align="center">Pedro De Lira</h1>
 <h3 align="center">
-Full Stack Developer (Angular + Node.js) | Cloud & DevOps | Production Systems
+Full Stack Developer · Angular · Node.js · Cloud & DevOps
 </h3>
 
 <p align="center">
@@ -24,18 +24,13 @@ Full Stack Developer (Angular + Node.js) | Cloud & DevOps | Production Systems
 ## About Me
 
 Full Stack Developer with 13+ years of experience in infrastructure, networking, and production systems.
-
 I build and deploy scalable web applications using Angular, Node.js, and MongoDB, with a strong focus on real-world production environments.
-
-My background in infrastructure and cloud allows me to go beyond development — I understand how applications behave in production, how to scale them, and how to keep them reliable.
+My background in infrastructure and cloud helps me understand how applications behave in production, how to scale them, and how to keep them reliable.
 
 - 🧠 Full stack development with production mindset
 - ⚙️ Experience in large-scale systems (7,500+ devices managed)
 - ☁️ Cloud & DevOps: AWS, GCP, Docker, deployments
 - 🚀 Focused on building, deploying, and operating real applications
-
----
-## What I Bring
 
 - Ability to build full stack applications from scratch (Angular + Node.js)
 - Strong understanding of system architecture and production environments
@@ -136,17 +131,17 @@ Full stack e-commerce platform built with the MEAN stack.
 
 **Systems Engineering**  
 Universidad Politécnica de Aguascalientes  
-Graduated · Professional license
+Graduated · Professional degree
 
 ---
 
 ## Certifications
 
-- Google Cloud Foundations.
-- AWS Cloud Operations Associate.
-- Cisco Networking.
-- Cisco Cybersecurity.
-- Cisco Endpoint Security.
+- Google Cloud Foundations
+- AWS Cloud Operations Associate
+- Cisco Networking
+- Cisco Cybersecurity
+- Cisco Endpoint Security
 
 ---
 
