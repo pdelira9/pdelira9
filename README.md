@@ -1,5 +1,7 @@
 <h1 align="center">Pedro De Lira</h1>
-<h3 align="center">Systems Engineer · Full Stack Developer · Infrastructure & Cloud</h3>
+<h3 align="center">
+Full Stack Developer (Angular + Node.js) | Cloud & DevOps | Production Systems
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=22&duration=2800&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Systems+Engineer;Full+Stack+Developer;Angular+%7C+Node.js+%7C+MongoDB;Infrastructure+%26+Cloud;Building+web+apps+for+real+production+environments" alt="Typing SVG" />
@@ -21,17 +23,27 @@
 
 ## About Me
 
-I am a **Systems Engineer** with more than 13 years of experience in infrastructure, networking, and cybersecurity, currently focused on **Full Stack Development** with Angular, Node.js, and MongoDB.
+Full Stack Developer with 13+ years of experience in infrastructure, networking, and production systems.
 
-I enjoy building robust applications that are well structured and ready for production. My infrastructure background gives me a broader view of the software lifecycle, from code to deployment and operations.
+I build and deploy scalable web applications using Angular, Node.js, and MongoDB, with a strong focus on real-world production environments.
 
-- 📍 Based in Aguascalientes, Mexico.
-- 💼 Focused on Full Stack Development and Cloud.
-- ⚙️ Experienced in infrastructure, networking, security, and technical support.
-- 🚀 Building projects with MEAN Stack, Docker, and cloud deployments.
+My background in infrastructure and cloud allows me to go beyond development — I understand how applications behave in production, how to scale them, and how to keep them reliable.
+
+- 🧠 Full stack development with production mindset
+- ⚙️ Experience in large-scale systems (7,500+ devices managed)
+- ☁️ Cloud & DevOps: AWS, GCP, Docker, deployments
+- 🚀 Focused on building, deploying, and operating real applications
 
 ---
+## What I Bring
 
+- Ability to build full stack applications from scratch (Angular + Node.js)
+- Strong understanding of system architecture and production environments
+- Experience managing large-scale infrastructure and high-availability systems
+- DevOps mindset: deployment, monitoring, and system reliability
+- Fast learner with hands-on approach and real-world problem solving
+
+---
 ## Currently
 
 - Building full stack web apps with Angular, Node.js, and MongoDB.
@@ -83,17 +95,31 @@ I enjoy building robust applications that are well structured and ready for prod
 
 ## Projects
 
-### Cafecito Feliz
-A POS system built with Angular, Node.js, and MongoDB Atlas.  
-It includes JWT authentication, role-based access control, sales, customers, inventory, and a metrics dashboard.
+### Cafecito Feliz – POS System
 
-[Demo](https://cafecitofeliz.pages.dev) · [Repository](https://github.com/pdelira9/cafecitoFeliz)
+Full stack POS system designed for small business operations.
 
-### Ecommerce App
-An e-commerce web application built with the MEAN Stack.  
-It includes product CRUD, shopping cart, authentication, and end-to-end testing with Cypress.
+- Built with Angular (modular architecture) and Node.js/Express backend
+- Implemented JWT authentication and role-based access control (RBAC)
+- Designed RESTful APIs with MongoDB Atlas for data persistence
+- Developed modules for sales, inventory, customers, and analytics dashboard
+- Deployed using cloud platforms (Render + Cloudflare Pages)
 
-[Demo](https://ecommerce-angular-app-rs9w.onrender.com) · [Repository](https://github.com/pdelira9/ecommerce-final)
+🔗 Demo: https://cafecitofeliz.pages.dev  
+🔗 Repo: https://github.com/pdelira9/cafecitoFeliz
+
+### Ecommerce Web Application
+
+Full stack e-commerce platform built with the MEAN stack.
+
+- Developed complete product CRUD, shopping cart, and checkout flow
+- Designed REST APIs with Node.js and MongoDB
+- Implemented form validation and state handling in Angular
+- Created end-to-end tests with Cypress for critical user flows
+- Deployed application in cloud environment
+
+🔗 Demo: https://ecommerce-angular-app-rs9w.onrender.com  
+🔗 Repo: https://github.com/pdelira9/ecommerce-final
 
 ---
 
