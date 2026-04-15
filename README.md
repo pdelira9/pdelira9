@@ -160,12 +160,3 @@ Graduated · Professional degree
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdelira9&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdelira9&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pdelira9&style=flat-square&color=60A5FA" alt="profile views" />
-</p>
